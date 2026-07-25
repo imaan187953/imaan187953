@@ -17,6 +17,3 @@ I enjoy building software that solves real-world problems through clean architec
 ![](https://github-profile-trophy.vercel.app/?username=imaan187953&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://komarev.com/ghpvc/?username=imaan187953&icon=1&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
