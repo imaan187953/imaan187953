@@ -13,7 +13,5 @@ I enjoy building software that solves real-world problems through clean architec
 ![](https://streak-stats.demolab.com/?user=imaan187953&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=imaan187953&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=imaan187953&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
